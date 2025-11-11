@@ -1,2 +1,7 @@
-# CPE201A_WayneJAirohResuma
-This repository is only for CPE201A
+#CPE201A - COMPUTER SYSTEM ADMINISTRATION
+
+Student: WAYNE JAIROH RESUMA
+Course: CPE201A
+Activity: SSH KEY-BASED AUTHENTICATION AND GIT SETUP
+
+This repository contains lab activities for Computer System Administration
